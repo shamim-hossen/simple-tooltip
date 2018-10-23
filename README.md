@@ -14,11 +14,12 @@
       "build": "webpack --mode production"
 },
 ## Command:
-> #### * npm init -y
-> #### * npm i -D babel-cli babel-preset-env
-> #### * npm i -D webpack webpack-cli
-> #### * npm install -D babel-loader@7 babel-core babel-preset-env webpack
-> #### * npm i -D babel-polyfill webpack-dev-server
+> #### 1. *npm init -y*
+> #### 2. *npm i -D babel-cli babel-preset-env*
+> #### 3. *npm i -D webpack webpack-cli*
+> #### 4. *npm install -D babel-loader@7 babel-core babel-preset-env webpack*
+> #### 5. *npm i -D babel-polyfill webpack-dev-server*
 
-> #### * npm run dev
-> #### * npm start
+## For run: 
+> #### 6. *npm run dev*
+> #### 7. *npm start*
