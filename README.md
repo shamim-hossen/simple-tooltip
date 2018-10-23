@@ -1,1 +1,1 @@
-# simple-tooltip
+# webpack-config-for-es6
