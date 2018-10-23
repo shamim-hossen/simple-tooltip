@@ -1,11 +1,12 @@
 # Webpack configure for es6
 
 ## Create file:
-#### Create src folder then>>index.js
+> ### Create src folder then
+#### 1. index.js
 #### 2. index.html,
-#### 2. babelrc,
-#### 3. webpack.config.js,
-#### 4. package.json,
+#### 3. babelrc,
+#### 4. webpack.config.js,
+#### 5. package.json,
  &copy text to package.json
 
 "scripts": {
