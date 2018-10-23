@@ -1,4 +1,4 @@
-###Webpack configure for es6
+#Webpack configure for es6
 
 #Create file:
 1.create src folder then>>index.js
