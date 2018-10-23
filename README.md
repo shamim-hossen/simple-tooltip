@@ -8,11 +8,12 @@
 #### 4. *webpack.config.js* ,                     
 #### 5. *package.json , &copy text to package.json*
 
-`` "scripts": { <br/>
-      "start": "webpack-dev-server",  <br/>
-      "dev": "webpack --mode development", <br/>
-      "build": "webpack --mode production"  <br/>
-}, `` <br/>
+``"scripts":{
+
+      "start": "webpack-dev-server",  
+      "dev": "webpack --mode development", 
+      "build": "webpack --mode production"
+  }``
 ## Command:
 > #### 1. *npm init -y*
 > #### 2. *npm i -D babel-cli babel-preset-env*
