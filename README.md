@@ -11,8 +11,7 @@
 ``"scripts":{
       "start": "webpack-dev-server",  
       "dev": "webpack --mode development", 
-      "build": "webpack --mode production"
-  }``
+      "build": "webpack --mode production"}``
 ## Command:
 > #### 1. *npm init -y*
 > #### 2. *npm i -D babel-cli babel-preset-env*
