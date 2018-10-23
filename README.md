@@ -6,7 +6,7 @@
 > #### 2. *npm i -D babel-cli babel-preset-env*
 > #### 3. *npm i -D webpack webpack-cli*
 > #### 4. *npm install -D babel-loader@7 babel-core babel-preset-env webpack*
-> #### 5. *npm run dev*
+> #### 5. *npm i -D babel-polyfill webpack-dev-server* 
 
 
 ## Create file :
@@ -29,5 +29,5 @@
 
 
 ## For run : 
-> #### 1. *npm i -D babel-polyfill webpack-dev-server*        
+> #### 1. *npm run dev*       
 > #### 2. *npm start*
