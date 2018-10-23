@@ -1,6 +1,6 @@
 # Webpack configure for es6
 
-### Create file:
+## Create file:
 1. create src folder then>>index.js
 2. index.html,
 2. babelrc,
@@ -13,7 +13,7 @@
       "dev": "webpack --mode development",
       "build": "webpack --mode production"
 },
-### Command:
+## Command:
 #### npm init -y
 #### npm i -D babel-cli babel-preset-env
 #### npm i -D webpack webpack-cli
