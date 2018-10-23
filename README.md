@@ -9,7 +9,6 @@
 #### 5. *package.json , &copy text to package.json*
 
 ``"scripts":{
-
       "start": "webpack-dev-server",  
       "dev": "webpack --mode development", 
       "build": "webpack --mode production"
