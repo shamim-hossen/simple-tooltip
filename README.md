@@ -12,11 +12,13 @@
 
 ## Create file :
                              
-#### 1. *index.html* ,                              
-#### 2. *.babelrc* ,                                 
-#### 3. *webpack.config.js* , 
-> ### Create src folder ,``then create file``:
-#### 1. *index.js* ,  
+>#### 1. *index.html* ,                              
+>#### 2. *.babelrc* ,                                 
+>#### 3. *webpack.config.js* 
+
+`` ### Create src folder : then``
+   ## create file:
+#### 1. *index.js*   
 
 ## Copy all file code and past to empty file :
 #### 1. *index.html*,
