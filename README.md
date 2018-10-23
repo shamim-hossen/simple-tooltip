@@ -2,11 +2,11 @@
 
 ## Create file:
 > ### Create src folder then
-#### 1. *index.js* ,
-#### 2. *index.html* ,
-#### 3. *babelr* ,
-#### 4. *webpack.config.js* ,
-#### 5. *package.json , &copy text to package.json*
+| #### 1. | *index.js* ,| 
+| #### 2. | *index.html* ,| 
+| #### 3. | *babelr* ,| 
+| #### 4. | *webpack.config.js* ,| 
+| #### 5. | *package.json , &copy text to package.json*| 
 
 "scripts": {
       "start": "webpack-dev-server",
