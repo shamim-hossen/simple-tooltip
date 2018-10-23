@@ -6,8 +6,7 @@
 > #### 2. *npm i -D babel-cli babel-preset-env*
 > #### 3. *npm i -D webpack webpack-cli*
 > #### 4. *npm install -D babel-loader@7 babel-core babel-preset-env webpack*
-> #### 5. *npm i -D babel-polyfill webpack-dev-server*
-
+> #### 5. *npm run dev*
 
 
 ## Create file :
@@ -16,9 +15,11 @@
 >#### 2. *.babelrc* ,                                 
 >#### 3. *webpack.config.js* 
 
+
 ## Create src folder : then
 > ## create file:
 >#### 1. *index.js*   
+
 
 ## Copy all file code and past to empty file :
 >#### 1. *index.html*,
@@ -28,5 +29,5 @@
 
 
 ## For run : 
-> #### 6. *npm run dev*
-> #### 7. *npm start*
+> #### 1. *npm i -D babel-polyfill webpack-dev-server*        
+> #### 2. *npm start*
